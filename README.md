@@ -20,4 +20,7 @@
 <br><br>
 Estudante de Engenharia de Software e entusiasta do desenvolvimento web front-end, embarcando na jornada de criar experiências digitais memoráveis.
 
-![Snake animation](https://github.com/TheoKrdozo/TheoKrdozo/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/TheoKrdozo/TheoKrdozo/blob/output/github-contribution-grid-snake.svg)
+
+
